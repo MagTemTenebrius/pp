@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Comm_size в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Comm_rank в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Get_processor_name в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Init в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Finalize в функции main.
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\msmpi.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\tenebrius\univer\pp\home_work\task04\task04\x64\Debug\task04.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
